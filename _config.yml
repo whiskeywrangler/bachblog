@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Patrick Bachmann"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Test actions My awesome biography constrained to a sentence or two goes here."
+  bio    : "."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -71,7 +71,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/whiskeywrangler/bachblog"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -83,7 +83,7 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/whiskeywrangler/bachblog"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
